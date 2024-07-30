@@ -1,2 +1,3 @@
-# github_tes
+# Belajar menggunakan github
+### by `Sandhika Galih`
 belajar github
