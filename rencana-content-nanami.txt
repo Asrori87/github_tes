@@ -2,7 +2,8 @@ Rencana Konten
 - Self branding
   * Mengisi github dengan project yg pernah / akan dibuat.
   * Berupa : Portfolio, landing page, fitur dan lain-lain.
+- Smart contract
 
 
 
-# Bahasa pemrograman : menggunakan javaScript sebagai bahasa default. 
+# Bahasa pemrograman : menggunakan php sebagai bahasa default. 
