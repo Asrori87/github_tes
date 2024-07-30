@@ -2,6 +2,7 @@ Rencana Konten
 - Self branding
   * Mengisi github dengan project yg pernah / akan dibuat.
   * Berupa : Portfolio, landing page, fitur dan lain-lain.
+- Problem Solve
 
 
 
