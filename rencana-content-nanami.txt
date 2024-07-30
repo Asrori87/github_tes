@@ -1,4 +1,8 @@
 Rencana Konten
 - Self branding
-  * Mengisi github dengan project yg pernah / akan dibuat
-- 
+  * Mengisi github dengan project yg pernah / akan dibuat.
+  * Berupa : Portfolio, landing page, fitur dan lain-lain.
+
+
+
+# Bahasa pemrograman : menggunakan javaScript sebagai bahasa default. 
