@@ -1,3 +1,4 @@
-# Belajar menggunakan github
-### by `Sandhika Galih`
+# Belajar menggunakan Github
+#### by `Sandhika Galih`
+
 belajar github
